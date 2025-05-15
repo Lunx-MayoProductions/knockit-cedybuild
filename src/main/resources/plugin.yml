@@ -1,0 +1,6 @@
+name: KnockIT
+version: '6003'
+main: de.nms.knockIT.KnockIT
+api-version: '1.21'
+prefix: Hollys
+authors: [ Lunx ]
